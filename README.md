@@ -2,22 +2,18 @@
 
 ## Languages
 
-- javascript(altjs)
-- node.js
+- javascript
 - python
 - ruby
-- actionscript
+- C#
 
 ## Environments
 
 - Unix (Mac/Ubuntu)
-- HTML5, especially websocket
-- Unity3d
-- Flash
+- HTML5
 
 ## Jobs
 
-* Aiming (2012-2013)
-* Quipper (2013-2014)
-* Increments (2014-)
-
+* Aiming (2012-2013) Game Engineer
+* Quipper (2013-2014) Software Engineer
+* Increments (2014-) Software Engineer
