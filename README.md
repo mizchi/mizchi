@@ -1,4 +1,6 @@
-Frontend Engineer. Virtual DOM Enthusiast.
+## TLDR
+
+Frontend Engineer in Japan. Virtual DOM Enthusiast.
 
 ## Skills
 
