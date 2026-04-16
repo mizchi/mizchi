@@ -31,9 +31,10 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 | [tornado](https://github.com/mizchi/tornado) | Review by codex, develop by claude-code | 63 | MoonBit | 2026-04-10 |
 | [chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) |  | 60 | Python | 2026-04-13 |
 | [crater](https://github.com/mizchi/crater) |  | 59 | MoonBit | 2026-04-15 |
+| [mars.mbt](https://github.com/mizchi/mars.mbt) | Hono-inspired HTTP framework for MoonBit | 15 | MoonBit | 2026-04-16 |
 | [tui.mbt](https://github.com/mizchi/tui.mbt) | Terminal UI library for MoonBit | 15 | MoonBit | 2026-04-10 |
-| [mars.mbt](https://github.com/mizchi/mars.mbt) | Hono-inspired HTTP framework for MoonBit | 14 | MoonBit | 2026-04-10 |
 | [kagura](https://github.com/mizchi/kagura) | 2D-first game engine for MoonBit inspired by Ebiten | 14 | MoonBit | 2026-03-30 |
+| [mizchi](https://github.com/mizchi/mizchi) |  | 13 |  | 2026-04-16 |
 | [moonbit-practice](https://github.com/mizchi/moonbit-practice) | MoonBit best practices plugin for Claude Code | 13 |  | 2026-04-05 |
 | [npm_typed.mbt](https://github.com/mizchi/npm_typed.mbt) |  | 12 | MoonBit | 2026-03-23 |
 | [vibe-lang](https://github.com/mizchi/vibe-lang) |  | 11 | MoonBit | 2026-04-14 |
@@ -111,7 +112,6 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 | [oci_wasm](https://github.com/mizchi/oci_wasm) | WebAssembly package registry client (OCI Distribution) | 0 | MoonBit | 2026-02-11 |
 | [blas](https://github.com/mizchi/blas) | BLAS bindings for MoonBit (Accelerate/OpenBLAS) | 0 | MoonBit | 2026-02-06 |
 | [ast_printer.mbt](https://github.com/mizchi/ast_printer.mbt) | A pretty printer for MoonBit AST - converts parsed AST back to source code | 0 | MoonBit | 2026-01-29 |
-| [wasi.mbt](https://github.com/mizchi/wasi.mbt) | WASIp2 (0.2.9) bindings for MoonBit | 0 | MoonBit | 2026-02-06 |
 
 *Updated: 2026-04-16*
 <!-- PORTFOLIO_END -->
