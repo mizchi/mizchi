@@ -23,30 +23,29 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 
 | Repository | Description | Stars | Language | Updated |
 | --- | --- | --- | --- | --- |
-| [similarity](https://github.com/mizchi/similarity) |  | 726 | Rust | 2026-04-27 |
-| [actrun](https://github.com/mizchi/actrun) | GitHub Actions compatible local runner | 629 | MoonBit | 2026-04-27 |
-| [chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) |  | 560 | Nix | 2026-04-27 |
-| [luna.mbt](https://github.com/mizchi/luna.mbt) | Experimental: Declarative UI Framework for Moonbit | 157 | MoonBit | 2026-04-11 |
+| [similarity](https://github.com/mizchi/similarity) |  | 727 | Rust | 2026-05-01 |
+| [actrun](https://github.com/mizchi/actrun) | GitHub Actions compatible local runner | 633 | MoonBit | 2026-05-03 |
+| [chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) |  | 579 | Nix | 2026-05-04 |
+| [luna.mbt](https://github.com/mizchi/luna.mbt) | Experimental: Declarative UI Framework for Moonbit | 157 | MoonBit | 2026-05-04 |
+| [skills](https://github.com/mizchi/skills) | Agent skills by mizchi, distributed via APM | 138 | Nix | 2026-05-04 |
 | [markdown.mbt](https://github.com/mizchi/markdown.mbt) | Markdown Parser for incremental update | 93 | MoonBit | 2026-04-12 |
-| [skills](https://github.com/mizchi/skills) | Agent skills by mizchi, distributed via APM | 92 | Nix | 2026-04-27 |
 | [js.mbt](https://github.com/mizchi/js.mbt) | Moonbit Js bindings | 70 | MoonBit | 2026-04-23 |
 | [tornado](https://github.com/mizchi/tornado) | Review by codex, develop by claude-code | 63 | MoonBit | 2026-04-25 |
-| [crater](https://github.com/mizchi/crater) |  | 59 | MoonBit | 2026-04-26 |
+| [crater](https://github.com/mizchi/crater) |  | 60 | MoonBit | 2026-05-02 |
 | [vite-plugin-moonbit](https://github.com/mizchi/vite-plugin-moonbit) | vite plugin for moonbit | 17 | TypeScript | 2026-04-20 |
 | [mars.mbt](https://github.com/mizchi/mars.mbt) | Hono-inspired HTTP framework for MoonBit | 16 | MoonBit | 2026-04-19 |
 | [tui.mbt](https://github.com/mizchi/tui.mbt) | Terminal UI library for MoonBit | 15 | MoonBit | 2026-04-16 |
-| [kagura](https://github.com/mizchi/kagura) | 2D-first game engine for MoonBit inspired by Ebiten | 14 | MoonBit | 2026-04-25 |
-| [mizchi](https://github.com/mizchi/mizchi) |  | 13 |  | 2026-04-20 |
-| [npm_typed.mbt](https://github.com/mizchi/npm_typed.mbt) |  | 12 | MoonBit | 2026-04-23 |
-| [vibe-lang](https://github.com/mizchi/vibe-lang) |  | 11 | MoonBit | 2026-04-27 |
-| [flaker](https://github.com/mizchi/flaker) |  | 11 | MoonBit | 2026-04-25 |
-| [sol.mbt](https://github.com/mizchi/sol.mbt) |  | 7 | MoonBit | 2026-04-25 |
-| [ts.mbt](https://github.com/mizchi/ts.mbt) |  | 6 | MoonBit | 2026-04-27 |
-| [sqlc_gen_moonbit](https://github.com/mizchi/sqlc_gen_moonbit) | sqlc plugin for generating type-safe MoonBit code from SQL | 6 | MoonBit | 2026-04-25 |
+| [kagura](https://github.com/mizchi/kagura) | 2D-first game engine for MoonBit inspired by Ebiten | 14 | MoonBit | 2026-04-29 |
+| [mizchi](https://github.com/mizchi/mizchi) |  | 13 |  | 2026-04-27 |
+| [npm_typed.mbt](https://github.com/mizchi/npm_typed.mbt) |  | 13 | MoonBit | 2026-04-29 |
+| [vibe-lang](https://github.com/mizchi/vibe-lang) |  | 12 | MoonBit | 2026-05-04 |
+| [flaker](https://github.com/mizchi/flaker) |  | 11 | MoonBit | 2026-05-04 |
+| [ts.mbt](https://github.com/mizchi/ts.mbt) |  | 9 | MoonBit | 2026-05-04 |
+| [sqlc_gen_moonbit](https://github.com/mizchi/sqlc_gen_moonbit) | sqlc plugin for generating type-safe MoonBit code from SQL | 7 | MoonBit | 2026-05-02 |
 | [rlm-dspy](https://github.com/mizchi/rlm-dspy) |  | 6 | TypeScript | 2026-03-19 |
 | [parquet](https://github.com/mizchi/parquet) | Parquet reader/writer for MoonBit. | 5 | MoonBit | 2026-04-25 |
+| [sqlite.mbt](https://github.com/mizchi/sqlite.mbt) |  | 5 | MoonBit | 2026-05-02 |
 | [terrain](https://github.com/mizchi/terrain) |  | 5 | MoonBit | 2026-03-08 |
-| [sqlite.mbt](https://github.com/mizchi/sqlite.mbt) |  | 4 | MoonBit | 2026-04-24 |
 | [wite](https://github.com/mizchi/wite) | Component-model-aware WebAssembly analyzer, optimizer, and profiler | 4 | MoonBit | 2026-04-10 |
 | [admiral](https://github.com/mizchi/admiral) | Declarative CLI builder for MoonBit, inspired by gunshi | 4 | MoonBit | 2026-04-17 |
 | [signals.mbt](https://github.com/mizchi/signals.mbt) |  | 4 | MoonBit | 2026-03-23 |
@@ -54,13 +53,15 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 | [moonlight](https://github.com/mizchi/moonlight) |  | 3 | MoonBit | 2026-04-06 |
 | [v8.mbt](https://github.com/mizchi/v8.mbt) | MoonBit bindings for V8 aimed at prototyping MoonBit-first runtimes in the style of Node or Deno. | 3 | MoonBit | 2026-03-21 |
 | [converge](https://github.com/mizchi/converge) | EG-walker CRDT | 3 | MoonBit | 2026-03-17 |
+| [chaosbringer](https://github.com/mizchi/chaosbringer) | Chaos engineering for Playwright tests | 2 | TypeScript | 2026-05-01 |
 | [moomaid](https://github.com/mizchi/moomaid) |  | 2 | MoonBit | 2026-04-25 |
 | [pixelmatch](https://github.com/mizchi/pixelmatch) | Fast pixel-level image comparison library for MoonBit/WASM | 2 | MoonBit | 2026-04-16 |
 | [starlint](https://github.com/mizchi/starlint) |  | 2 | MoonBit | 2026-04-04 |
 | [image-mbt](https://github.com/mizchi/image-mbt) | image codec primitives for MoonBit | 2 | MoonBit | 2026-04-09 |
 | [font](https://github.com/mizchi/font) | moonbit font rendering for ttf/otf/ttc/otc/woff/woff2 | 2 | MoonBit | 2026-03-29 |
 | [playwright.mbt](https://github.com/mizchi/playwright.mbt) | Playwright-compatible API built on WebDriver BiDi | 2 | MoonBit | 2026-03-30 |
-| [chaosbringer](https://github.com/mizchi/chaosbringer) | Chaos engineering for Playwright tests | 1 | TypeScript | 2026-04-26 |
+| [cloudflare.mbt](https://github.com/mizchi/cloudflare.mbt) |  | 2 | MoonBit | 2026-05-02 |
+| [sample-webapp-2026](https://github.com/mizchi/sample-webapp-2026) | Vite + React dashboard and Hono API reference project for flaker and vrt | 1 | TypeScript | 2026-04-30 |
 | [ts-fuzzing](https://github.com/mizchi/ts-fuzzing) |  | 1 | TypeScript | 2026-04-18 |
 | [nom.mbt](https://github.com/mizchi/nom.mbt) |  | 1 | MoonBit | 2026-04-25 |
 | [dicord.mbt](https://github.com/mizchi/dicord.mbt) |  | 1 | MoonBit | 2026-04-25 |
@@ -74,11 +75,9 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 | [moonbit_jsonschema](https://github.com/mizchi/moonbit_jsonschema) |  | 1 | MoonBit | 2026-04-06 |
 | [threads-mbt](https://github.com/mizchi/threads-mbt) | MoonBit threads project | 1 | MoonBit | 2026-03-27 |
 | [differentiable_ecs](https://github.com/mizchi/differentiable_ecs) | Game-agnostic parameter optimizer using CMA-ES for balance tuning (MoonBit) | 1 | MoonBit | 2026-03-09 |
-| [cloudflare.mbt](https://github.com/mizchi/cloudflare.mbt) |  | 1 | MoonBit | 2026-03-24 |
 | [tomate](https://github.com/mizchi/tomate) | Multi-agent orchestration engine in MoonBit (native port of takt) | 1 | MoonBit | 2026-02-21 |
 | [whisper-mbt](https://github.com/mizchi/whisper-mbt) |  | 1 | C++ | 2026-02-20 |
 | [ast_printer.mbt](https://github.com/mizchi/ast_printer.mbt) | A pretty printer for MoonBit AST - converts parsed AST back to source code | 0 | MoonBit | 2026-04-27 |
-| [sample-webapp-2026](https://github.com/mizchi/sample-webapp-2026) | Vite + React dashboard and Hono API reference project for flaker and vrt | 0 | TypeScript | 2026-04-10 |
 | [helix-wasm](https://github.com/mizchi/helix-wasm) |  | 0 | Rust | 2026-04-11 |
 | [sandbox.mbt](https://github.com/mizchi/sandbox.mbt) |  | 0 | MoonBit | 2026-04-25 |
 | [jq](https://github.com/mizchi/jq) | A jq clone implemented in MoonBit | 0 | MoonBit | 2026-04-25 |
@@ -112,5 +111,5 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 | [wit.mbt](https://github.com/mizchi/wit.mbt) | WIT (WebAssembly Interface Types) parser and resolver in MoonBit | 0 | MoonBit | 2026-02-15 |
 | [mbts](https://github.com/mizchi/mbts) |  | 0 | JavaScript | 2025-12-21 |
 
-*Updated: 2026-04-27*
+*Updated: 2026-05-04*
 <!-- PORTFOLIO_END -->
