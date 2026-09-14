@@ -23,67 +23,69 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 
 | Repository | Description | Stars | Language | Updated |
 | --- | --- | --- | --- | --- |
-| [chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) |  | 607 | Nix | 2026-08-29 |
-| [skills](https://github.com/mizchi/skills) | Agent skills by mizchi, distributed via APM | 325 | TypeScript | 2026-09-04 |
-| [luna.mbt](https://github.com/mizchi/luna.mbt) | Experimental: Declarative UI Framework for Moonbit | 170 | MoonBit | 2026-09-03 |
-| [markdown.mbt](https://github.com/mizchi/markdown.mbt) | Markdown Parser for incremental update | 100 | MoonBit | 2026-09-03 |
+| [chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) |  | 607 | Nix | 2026-09-14 |
+| [skills](https://github.com/mizchi/skills) | Agent skills by mizchi, distributed via APM | 325 | TypeScript | 2026-09-11 |
+| [luna.mbt](https://github.com/mizchi/luna.mbt) | Experimental: Declarative UI Framework for Moonbit | 170 | MoonBit | 2026-09-11 |
+| [markdown.mbt](https://github.com/mizchi/markdown.mbt) | Markdown Parser for incremental update | 101 | MoonBit | 2026-09-13 |
 | [js.mbt](https://github.com/mizchi/js.mbt) | Moonbit Js bindings | 77 | MoonBit | 2026-08-25 |
-| [crater](https://github.com/mizchi/crater) |  | 74 | MoonBit | 2026-08-28 |
+| [crater](https://github.com/mizchi/crater) |  | 74 | MoonBit | 2026-09-10 |
 | [pkfire](https://github.com/mizchi/pkfire) | Typed task runner with Bazel-style incremental caching, configured in Pkl. | 53 | MoonBit | 2026-09-04 |
-| [chaosbringer](https://github.com/mizchi/chaosbringer) | Chaos engineering for Playwright tests | 44 | TypeScript | 2026-09-01 |
-| [vibe-lang](https://github.com/mizchi/vibe-lang) |  | 36 | Shell | 2026-09-07 |
+| [chaosbringer](https://github.com/mizchi/chaosbringer) | Chaos engineering for Playwright tests | 44 | TypeScript | 2026-09-14 |
+| [vibe-lang](https://github.com/mizchi/vibe-lang) |  | 35 | Shell | 2026-09-14 |
 | [dspec](https://github.com/mizchi/dspec) | Executable specification toolkit prototype | 35 | JavaScript | 2026-08-11 |
-| [sprawlens](https://github.com/mizchi/sprawlens) |  | 33 | Lean | 2026-09-02 |
+| [sprawlens](https://github.com/mizchi/sprawlens) |  | 34 | Lean | 2026-09-09 |
 | [vite-plugin-moonbit](https://github.com/mizchi/vite-plugin-moonbit) | vite plugin for moonbit | 23 | TypeScript | 2026-09-05 |
-| [ts.mbt](https://github.com/mizchi/ts.mbt) | typescript <-> moonbit bridge generator | 21 | MoonBit | 2026-09-07 |
-| [vlmkit](https://github.com/mizchi/vlmkit) | VRT + Semantic Verification Harness — Visual regression testing with a11y semantic verification, AI reasoning, and multi-step goal runner | 20 | TypeScript | 2026-09-07 |
-| [jsimd](https://github.com/mizchi/jsimd) | Prebuilt WebAssembly SIMD kernels and Wasm-resident data structures for JavaScript | 19 | TypeScript | 2026-09-05 |
-| [mars.mbt](https://github.com/mizchi/mars.mbt) | Hono-inspired HTTP framework for MoonBit | 19 | MoonBit | 2026-07-07 |
-| [tui.mbt](https://github.com/mizchi/tui.mbt) | Terminal UI library for MoonBit | 18 | MoonBit | 2026-08-28 |
-| [kagura](https://github.com/mizchi/kagura) | 2D-first game engine for MoonBit inspired by Ebiten | 17 | MoonBit | 2026-09-04 |
+| [ts.mbt](https://github.com/mizchi/ts.mbt) | typescript <-> moonbit bridge generator | 22 | MoonBit | 2026-09-14 |
+| [vlmkit](https://github.com/mizchi/vlmkit) | VRT + Semantic Verification Harness — Visual regression testing with a11y semantic verification, AI reasoning, and multi-step goal runner | 20 | TypeScript | 2026-09-14 |
+| [mars.mbt](https://github.com/mizchi/mars.mbt) | Hono-inspired HTTP framework for MoonBit | 19 | MoonBit | 2026-09-12 |
+| [jsimd](https://github.com/mizchi/jsimd) | Prebuilt WebAssembly SIMD kernels and Wasm-resident data structures for JavaScript | 19 | TypeScript | 2026-09-08 |
+| [kagura](https://github.com/mizchi/kagura) | 2D-first game engine for MoonBit inspired by Ebiten | 18 | MoonBit | 2026-09-14 |
+| [tui.mbt](https://github.com/mizchi/tui.mbt) | Terminal UI library for MoonBit | 18 | MoonBit | 2026-09-10 |
 | [npm_typed.mbt](https://github.com/mizchi/npm_typed.mbt) |  | 15 | MoonBit | 2026-07-29 |
-| [uneffect](https://github.com/mizchi/uneffect) | Gradual effect, contract, async-safety, and temporal checking for existing TypeScript. | 14 | TypeScript | 2026-09-07 |
-| [mizchi](https://github.com/mizchi/mizchi) |  | 13 |  | 2026-08-31 |
+| [uneffect](https://github.com/mizchi/uneffect) | Gradual effect, contract, async-safety, and temporal checking for existing TypeScript. | 14 | TypeScript | 2026-09-09 |
+| [mizchi](https://github.com/mizchi/mizchi) |  | 13 |  | 2026-09-07 |
 | [sqlc_gen_moonbit](https://github.com/mizchi/sqlc_gen_moonbit) | sqlc plugin for generating type-safe MoonBit code from SQL | 10 | MoonBit | 2026-08-23 |
 | [formal-methods-playground](https://github.com/mizchi/formal-methods-playground) | Playground for comparing formal methods tools on realistic app-engineering cases | 9 | Dafny | 2026-08-30 |
 | [pkl-mbt](https://github.com/mizchi/pkl-mbt) |  | 8 | MoonBit | 2026-09-07 |
 | [simd](https://github.com/mizchi/simd) |  | 8 | MoonBit | 2026-08-28 |
 | [numbt](https://github.com/mizchi/numbt) | NumPy-style numerical computing library for MoonBit | 6 | MoonBit | 2026-08-15 |
+| [three-mbt](https://github.com/mizchi/three-mbt) | Typed Three.js bindings for MoonBit (mizchi/three) | 5 | MoonBit | 2026-09-13 |
 | [admiral](https://github.com/mizchi/admiral) | Declarative CLI builder for MoonBit, inspired by gunshi | 5 | MoonBit | 2026-08-15 |
 | [cloudflare.mbt](https://github.com/mizchi/cloudflare.mbt) |  | 5 | MoonBit | 2026-08-26 |
 | [moon-pprof](https://github.com/mizchi/moon-pprof) | MoonBit profiling toolkit: pprof output for wasm-gc / wasm / js / native backends. Includes Rust crates and npm package for symbol demangling + Firefox-Profiler → pprof conversion. | 5 | Rust | 2026-06-28 |
+| [playwright.mbt](https://github.com/mizchi/playwright.mbt) | Playwright-compatible API built on WebDriver BiDi | 4 | MoonBit | 2026-09-11 |
 | [wite](https://github.com/mizchi/wite) | Component-model-aware WebAssembly analyzer, optimizer, and profiler | 4 | MoonBit | 2026-08-15 |
 | [image-mbt](https://github.com/mizchi/image-mbt) | image codec primitives for MoonBit | 4 | MoonBit | 2026-08-15 |
 | [pixelmatch](https://github.com/mizchi/pixelmatch) | Fast pixel-level image comparison library for MoonBit/WASM | 4 | MoonBit | 2026-07-14 |
 | [css](https://github.com/mizchi/css) | Standalone CSS parser, selector, cascade and computed-style engine for MoonBit (extracted from mizchi/crater) | 4 | MoonBit | 2026-08-01 |
-| [experimental_crypto](https://github.com/mizchi/experimental_crypto) | Pure MoonBit crypto and PKI building blocks: ASN.1/DER, X.509, PKCS#8, PEM, HKDF, PBKDF2, scrypt, Argon2, X25519, Ed25519, ChaCha20-Poly1305, AES-GCM | 4 | MoonBit | 2026-09-02 |
+| [moonlight](https://github.com/mizchi/moonlight) |  | 3 | MoonBit | 2026-04-06 |
+| [v8.mbt](https://github.com/mizchi/v8.mbt) | MoonBit bindings for V8 aimed at prototyping MoonBit-first runtimes in the style of Node or Deno. | 3 | MoonBit | 2026-09-09 |
 | [process_pool.mbt](https://github.com/mizchi/process_pool.mbt) |  | 3 | MoonBit | 2026-02-11 |
 | [converge](https://github.com/mizchi/converge) | EG-walker CRDT | 3 | MoonBit | 2026-08-23 |
 | [effectts-vs-moonbit](https://github.com/mizchi/effectts-vs-moonbit) | Runnable comparisons between EffectTS and MoonBit | 3 | AMPL | 2026-07-27 |
-| [v8.mbt](https://github.com/mizchi/v8.mbt) | MoonBit bindings for V8 aimed at prototyping MoonBit-first runtimes in the style of Node or Deno. | 3 | MoonBit | 2026-06-28 |
 | [font](https://github.com/mizchi/font) | moonbit font rendering for ttf/otf/ttc/otc/woff/woff2 | 2 | MoonBit | 2026-08-15 |
 | [svg](https://github.com/mizchi/svg) |  | 2 | MoonBit | 2026-08-15 |
 | [semver.mbt](https://github.com/mizchi/semver.mbt) |  | 2 | MoonBit | 2026-08-15 |
 | [moomaid](https://github.com/mizchi/moomaid) |  | 2 | MoonBit | 2026-07-28 |
 | [rkyv-mbt](https://github.com/mizchi/rkyv-mbt) |  | 2 | MoonBit | 2026-07-27 |
 | [pkspec](https://github.com/mizchi/pkspec) | [experimental] Language-agnostic test runner extending pkl test — design notebook | 2 | Pkl | 2026-06-28 |
-| [ts-fuzzing](https://github.com/mizchi/ts-fuzzing) |  | 2 | TypeScript | 2026-05-28 |
-| [modeling-playground](https://github.com/mizchi/modeling-playground) | Procedural 3D modeling playground with a shared Three.js GLB viewer, character animation and interactive IK | 1 | JavaScript | 2026-09-07 |
+| [x](https://github.com/mizchi/x) |  | 1 | MoonBit | 2026-09-11 |
+| [wit.mbt](https://github.com/mizchi/wit.mbt) | WIT (WebAssembly Interface Types) parser and resolver in MoonBit | 1 | MoonBit | 2026-09-10 |
+| [modeling-playground](https://github.com/mizchi/modeling-playground) | Procedural 3D modeling playground with a shared Three.js GLB viewer, character animation and interactive IK | 1 | TypeScript | 2026-09-10 |
 | [pixel-lab](https://github.com/mizchi/pixel-lab) | SIMD, Worker, Atomics, and WebGPU pixel physics laboratory | 1 | TypeScript | 2026-09-03 |
-| [x](https://github.com/mizchi/x) |  | 1 | MoonBit | 2026-08-30 |
 | [canvas-mbt](https://github.com/mizchi/canvas-mbt) | Pure-MoonBit headless 2D canvas rasterizer with PNG output | 1 | MoonBit | 2026-08-15 |
 | [llm](https://github.com/mizchi/llm) |  | 1 | MoonBit | 2026-08-15 |
 | [moon-component](https://github.com/mizchi/moon-component) |  | 1 | WebAssembly | 2026-08-15 |
-| [wit.mbt](https://github.com/mizchi/wit.mbt) | WIT (WebAssembly Interface Types) parser and resolver in MoonBit | 1 | MoonBit | 2026-08-15 |
 | [moonbit_jsonschema](https://github.com/mizchi/moonbit_jsonschema) |  | 1 | MoonBit | 2026-08-15 |
 | [lsp.mbt](https://github.com/mizchi/lsp.mbt) | LSP (Language Server Protocol) implementation for MoonBit | 1 | MoonBit | 2026-08-15 |
 | [mayo](https://github.com/mizchi/mayo) | Persistent Web Worker pool for MoonBit with browser and Deno hosts | 1 | MoonBit | 2026-07-15 |
 | [webnn-mbt](https://github.com/mizchi/webnn-mbt) | WebNN backend and TFLite inference runtime for MoonBit | 1 | MoonBit | 2026-07-15 |
 | [helix-wasm](https://github.com/mizchi/helix-wasm) |  | 1 | Rust | 2026-06-02 |
 | [playwright-playground](https://github.com/mizchi/playwright-playground) |  | 1 | TypeScript | 2026-06-27 |
-| [differentiable_ecs](https://github.com/mizchi/differentiable_ecs) | Game-agnostic parameter optimizer using CMA-ES for balance tuning (MoonBit) | 1 | MoonBit | 2026-06-03 |
+| [veri](https://github.com/mizchi/veri) | Formal verification foundations for MoonBit | 0 | MoonBit | 2026-09-14 |
 | [sample-webapp-2026](https://github.com/mizchi/sample-webapp-2026) | Vite + React dashboard and Hono API reference project for flaker and vrt | 0 | TypeScript | 2026-08-25 |
-| [prdt](https://github.com/mizchi/prdt) | prdt impl | 0 | MoonBit | 2026-09-04 |
+| [odenctl](https://github.com/mizchi/odenctl) |  | 0 | TypeScript | 2026-09-14 |
+| [prdt](https://github.com/mizchi/prdt) | prdt impl | 0 | MoonBit | 2026-09-11 |
 | [converge_audit](https://github.com/mizchi/converge_audit) | Adversarial checkpoint auditing for local-first replicated state | 0 | MoonBit | 2026-09-04 |
 | [nn](https://github.com/mizchi/nn) |  | 0 | MoonBit | 2026-08-29 |
 | [cst.mbt](https://github.com/mizchi/cst.mbt) |  | 0 | MoonBit | 2026-08-29 |
@@ -102,8 +104,6 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 | [folddown](https://github.com/mizchi/folddown) |  | 0 | MoonBit | 2026-07-17 |
 | [hermes-reports](https://github.com/mizchi/hermes-reports) | Automated tech reports by Hermes Agent | 0 | HTML | 2026-07-05 |
 | [project-template](https://github.com/mizchi/project-template) | Language-agnostic project template: nix + direnv + apm, reproducible on Claude Code web | 0 | Shell | 2026-06-26 |
-| [lightbringer](https://github.com/mizchi/lightbringer) | Per-step resource measurement for Playwright scenarios: network / CPU / render / INP at initialization and between steps. | 0 | TypeScript | 2026-06-22 |
-| [ripple](https://github.com/mizchi/ripple) | Incremental computation library for MoonBit | 0 | MoonBit | 2026-06-01 |
 
-*Updated: 2026-09-07*
+*Updated: 2026-09-14*
 <!-- PORTFOLIO_END -->
