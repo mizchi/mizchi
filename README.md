@@ -1,22 +1,60 @@
-## TLDR
+# mizchi
 
-Frontend Engineer in Japan. Virtual DOM Enthusiast.
+Software engineer building compilers, runtimes, and verification tools for AI-assisted development.
 
-## Skills
+Web / Node.js とフロントエンドの性能改善を出発点に、現在は言語処理系、WebAssembly、静的解析、fuzzing、形式手法、CI・テスト基盤を開発しています。
 
-- Node.js
-- Frontend Performance
-- Frontend Ops
-- TypeScript, JavaScript, C#, Python, Ruby, Scala
-- Compiler Frontend
+## Current focus
 
-## Career
+- Programming languages, compilers, parsers, and runtimes
+- WebAssembly and portable execution environments
+- Static analysis, fuzzing, and formal verification
+- Developer tools and verification pipelines for coding agents
+- TypeScript / Node.js / frontend performance
 
-- Aiming (2012-2013) Game Client Engineer
-- Quipper, Ltd (2013-2014) Software Engineer
-- Increments (2014-2017) Software Engineer
-- Freelance (2017-2019) Frontend Engineer & Consultant
-- Plaid (2019-) Software Engineer
+## Featured projects
+
+### Understand code
+
+- [**similarity**](https://github.com/mizchi/similarity) — High-performance, AST-based code similarity detection for TypeScript/JavaScript and other languages.
+- [**markdown.mbt**](https://github.com/mizchi/markdown.mbt) — CST-based incremental Markdown parser for JS, Wasm, and native; CommonMark 652/652 with updates up to 42x faster.
+
+### Verify behavior
+
+- [**uneffect**](https://github.com/mizchi/uneffect) — Gradual effect specifications, Hoare-style contracts, and temporal models for existing TypeScript.
+- [**vlmkit**](https://github.com/mizchi/vlmkit) — Deterministic frontend verification for humans and coding agents: visual regression, accessibility, responsive boundaries, and scripted flows.
+
+### Run efficiently
+
+- [**vibe-lang**](https://github.com/mizchi/vibe-lang) — A selfhost-only, effect-typed language whose parser, type checker, and Wasm code generator are written in the language itself.
+- [**actrun**](https://github.com/mizchi/actrun) — A local GitHub Actions runner built with MoonBit, with a `gh`-compatible CLI.
+- [**crater**](https://github.com/mizchi/crater) — A small headless browser target driven by Playwright over WebDriver BiDi, built with MoonBit for JS, native, and Wasm.
+
+## Selected OSS contributions
+
+- [oxc#25589](https://github.com/oxc-project/oxc/pull/25589) — Reduced redundant fixed-point scans and allocations in the minifier.
+- [oxc#25594](https://github.com/oxc-project/oxc/pull/25594) — Added a semantic minifier fuzzer that uncovered real miscompilations.
+
+## Writing and talks
+
+- [Zenn](https://zenn.dev/mizchi) — AI-assisted engineering, programming languages, formal methods, WebAssembly, and frontend infrastructure
+- [Speaker Deck](https://speakerdeck.com/mizchi)
+- [Presentations on connpass](https://connpass.com/user/mizchi/presentation/)
+
+## Experience
+
+- Freelance Software Engineer & Consultant (2024–present)
+- PLAID, Software Engineer (2019–2023)
+- Freelance Frontend Engineer & Consultant (2016–2019)
+- Quipper / Increments / Aiming, Software Engineer (2012–2016)
+
+## Links
+
+- [LinkedIn](https://jp.linkedin.com/in/koutaro-chikuba-a3bb8393)
+- [mizchi.dev](https://mizchi.dev/)
+
+<details>
+<summary>All OSS projects</summary>
 
 <!-- PORTFOLIO_START -->
 ## OSS Projects
@@ -109,3 +147,5 @@ Frontend Engineer in Japan. Virtual DOM Enthusiast.
 
 *Updated: 2026-11-16*
 <!-- PORTFOLIO_END -->
+
+</details>
