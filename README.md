@@ -30,10 +30,11 @@ Web / Node.js とフロントエンドの性能改善を出発点に、現在は
 - [**actrun**](https://github.com/mizchi/actrun) — A local GitHub Actions runner built with MoonBit, with a `gh`-compatible CLI.
 - [**crater**](https://github.com/mizchi/crater) — A small headless browser target driven by Playwright over WebDriver BiDi, built with MoonBit for JS, native, and Wasm.
 
-## Selected OSS contributions
+## MoonBit contributions
 
-- [oxc#25589](https://github.com/oxc-project/oxc/pull/25589) — Reduced redundant fixed-point scans and allocations in the minifier.
-- [oxc#25594](https://github.com/oxc-project/oxc/pull/25594) — Added a semantic minifier fuzzer that uncovered real miscompilations.
+Active contributor to the official [MoonBit repositories](https://github.com/search?q=org%3Amoonbitlang+author%3Amizchi+is%3Apr&type=pullrequests), with 100+ PRs across `moonbitlang/core`, `async`, `x`, `wasm5`, `parser`, and related projects.
+
+My contributions focus on standard-library performance and correctness: SIMD / v128, JSON, strings and bytes, UTF encoding, collections, async / HTTP, and WebAssembly tooling.
 
 ## Writing and talks
 
