@@ -17,6 +17,7 @@ Web / Node.js とフロントエンドの性能改善を出発点に、現在は
 ### Understand code
 
 - [**similarity**](https://github.com/mizchi/similarity) — High-performance, AST-based code similarity detection for TypeScript/JavaScript and other languages.
+- [**jev-lint**](https://github.com/mizchi/jev-lint) — Semantic linting for claims that parsers and type checkers cannot judge, using calibrated natural-language classification.
 - [**markdown.mbt**](https://github.com/mizchi/markdown.mbt) — CST-based incremental Markdown parser for JS, Wasm, and native; CommonMark 652/652 with updates up to 42x faster.
 
 ### Verify behavior
@@ -36,7 +37,13 @@ Active contributor to the official [MoonBit repositories](https://github.com/sea
 
 My contributions focus on standard-library performance and correctness: SIMD / v128, JSON, strings and bytes, UTF encoding, collections, async / HTTP, and WebAssembly tooling.
 
-## Writing and talks
+## Featured writing
+
+- [**CLINEに全部賭けろ**](https://zenn.dev/mizchi/articles/all-in-on-cline) — 日本語版, 2025
+- [**All in on CLINE**](https://dev.to/mizchi/all-in-on-cline-2g0j) — English version, 2025
+- [**なぜ仮想DOMという概念が俺達の魂を震えさせるのか**](https://qiita.com/mizchi/items/4d25bc26def1719d52e6) — VirtualDOM Advent Calendar 2014
+
+## More writing and talks
 
 - [Zenn](https://zenn.dev/mizchi) — AI-assisted engineering, programming languages, formal methods, WebAssembly, and frontend infrastructure
 - [Speaker Deck](https://speakerdeck.com/mizchi)
